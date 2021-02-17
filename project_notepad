@@ -2,6 +2,8 @@ Brainstorm grejer att göra:
 
 * Få ljuspixlar att blinka med varierande hastighet. Det här borde ju vara en basic grej som det finns tutorials på. 
 * Ge input till arduino som triggar en förändring i ljuset - först på enklast möjliga vis.
+* Ey, jag insåg precis att det finns en wiki man kan använda på Github kopplad till projektet! Den är ju mycket bättre att använda än den här texteditorn, men 
+det får bli en annan dag. 
 
 För kul: Förstå den mystiska pedalsketchen. Senare i projektet kan det ju också kanske vara nödvändigt ifall den måste göras om för att fixa det där himla truebypass 
 eller vad det nu var. 
